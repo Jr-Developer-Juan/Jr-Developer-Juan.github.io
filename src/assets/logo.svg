@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="40" viewBox="0 0 240 40">
+  <defs>
+    <linearGradient id="paint0_linear_994_94" x1="0" y1="0" x2="77.8461" y2="9.73773" gradientUnits="userSpaceOnUse">
+      <stop offset="0.183111" stop-color="#FF56F6"/>
+      <stop offset="0.432593" stop-color="#B936EE"/>
+      <stop offset="0.854443" stop-color="#3BACE2"/>
+      <stop offset="1" stop-color="#406AFF"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_994_94" x1="0" y1="0" x2="77.8461" y2="9.73773" gradientUnits="userSpaceOnUse">
+      <stop offset="0.183111" stop-color="#FF56F6"/>
+      <stop offset="0.432593" stop-color="#B936EE"/>
+      <stop offset="0.854443" stop-color="#3BACE2"/>
+      <stop offset="1" stop-color="#406AFF"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_994_94" x1="0" y1="0" x2="77.8461" y2="9.73773" gradientUnits="userSpaceOnUse">
+      <stop offset="0.183111" stop-color="#FF56F6"/>
+      <stop offset="0.432593" stop-color="#B936EE"/>
+      <stop offset="0.854443" stop-color="#3BACE2"/>
+      <stop offset="1" stop-color="#406AFF"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <text x="20" y="32" font-family="Arial" font-size="40" font-weight="bold" fill="url(#paint0_linear_994_94)">J</text>
+    <text x="40" y="32" font-family="Arial" font-size="40" font-weight="bold" fill="url(#paint1_linear_994_94)">r</text>
+    <text x="60" y="32" font-family="Arial" font-size="40" font-weight="bold" fill="url(#paint2_linear_994_94)">-</text>
+    <text x="80" y="32" font-family="Arial" font-size="40" font-weight="bold" fill="url(#paint0_linear_994_94)">D</text>
+    <text x="110" y="32" font-family="Arial" font-size="40" font-weight="bold" fill="url(#paint1_linear_994_94)">e</text>
+    <text x="135" y="32" font-family="Arial" font-size="40" font-weight="bold" fill="url(#paint2_linear_994_94)">v</text>
+  </g>
+</svg>
